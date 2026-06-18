@@ -6,7 +6,7 @@
       <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/main/Tintoicon2.png" width="140" style="border-radius:22px"/>
     </td>
     <td>
-      <strong>Tinto</strong> transforms museum visits into creative, color-driven experiences for children aged 6–11.<br/><br/>
+      <strong>Tinto</strong> transforms museum visits into creative, color-driven experiences for children aged 6–11.<br/>
       Point your camera at any artwork and Tinto instantly extracts its dominant colors, revealing the hidden palette behind every painting. Use those colors to mix, match, and create your own masterpieces — on a touch canvas or through AR hand tracking in the air.<br/><br/>
       📱 Available on <strong>iPhone and iPad</strong><br/>
       🛠 iOS 16.0+<br/>
