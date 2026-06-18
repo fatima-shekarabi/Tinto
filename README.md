@@ -1,6 +1,22 @@
 # Tinto
 
-Tinto is an iOS and iPadOS app that turns a museum visit into a hands-on creative activity for kids aged 6 to 11. Children scan a painting, learn its colors, unlock them through a mixing mini-game, and then recreate the artwork in their own style, by drawing on screen or "painting in the air" with AR.
+📱 App Store — Tinto: Your Museum Buddy
+
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/main/Tintoicon2.png" width="160"/>
+    </td>
+    <td>
+Tinto transforms museum visits into creative, color-driven experiences for children.<br/>
+      
+Point your camera at any artwork and Tinto instantly extracts its dominant colors, revealing the hidden palette behind every painting. Use those colors to mix, match, and create your own masterpieces, either on a touch canvas or through AR hand tracking in the air.
+
+🔗 https://apps.apple.com/app/tinto-your-museum-buddy/id6777824863
+
+  </td>
+  </tr>
+</table>
 
 ## Features
 
